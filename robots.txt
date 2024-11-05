@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udevaepu.github.io/VPy/sitemap_index.txt
+Sitemap: https://udevaepu.github.io/Zwi/sitemap_index.txt
+Sitemap: https://udevaepu.github.io/ajW/sitemap_index.txt
+Sitemap: https://udevaepu.github.io/lBv/sitemap_index.txt
